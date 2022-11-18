@@ -2,13 +2,15 @@
 
 ## Find out 
 
+Welcome! :wave:
+
 ### What does that even mean?!?
 
 It has been said:
 
 > Fuck around, find out
 
-This meme-friendly colloquialsim is often accompanied by screenshots demonstrating its meaning that when one "fucks around" ther are apt to "find out" (the consequences).
+This meme-friendly colloquialsim is often accompanied by screenshots demonstrating its meaning that when one "fucks around" they are apt to "find out" (via consequences).
 
 So, given this rather negative sounding connotation, why would I use such a phrase for any reason whatsover? 
 
@@ -18,11 +20,11 @@ It's for the ~lulz~ puns, of course!
 
 ### I'm Eph!
 
-There are ~many~ probably other Ephs, but I'm the only Eph that is me
+There are ~many~ probably other Ephs, but I'm the only Eph that is me (I'm definitely [not Steve](https://youtu.be/5vtZcojS9KA), despite my given middle name)
 
 As you might have guessed, I was not born Eph Baum
 
-Instead, I was given a name I was told not to use. Directed, instead, to use my middle name. This was fine as my first name was easy to make fun of and even though I generally didn't use it, if a bully found it out, it would be used against me. My middle name was not great, and it used a less common, less popular, spelling that resulted in more teasing ultimately. Finally there's my given last name, which I actually don't hate, it's just long as heck. 
+Instead, I was given a name I was told not to use. Directed, instead, to use my middle name. This was fine enough as my given first name easily conformed to joke. Even though I generally didn't use that name, if a bully found it out, it would invariably be used against me. My middle name was not great either as it used a less common, less popular, spelling of a very common name ultimately leading to additional teasing. Finally there's my given last name, which I actually don't hate, it's just one of those long German last names being 10 letters long.
 
 #### F19baum, F21baum with spaces
 
@@ -32,5 +34,17 @@ These two points, however, have become commonly picked upon for a "nickname":
 
 F-baum
 
-... probably this is enough to prove my theory that this file will be concatenated with the `index.md` file - this Jekyll voodoo will not defeat me.
+#### Hello F. | F., I hope this message finds you well!
 
+> It's Eph, actually
+
+For years I have used my first initial for most systems and frequently found that it's pretty common that systems aren't build for a traditional `first_name` + " " + `last_name` expectation.
+
+I have thousands of emails addressed to F.
+
+
+## You've Explained Your Clever Name, but What is Eph Around?
+
+As of yet it remains nothing, but ultimately it's meant to be _something_
+
+... stay tuned (and this might not be like all my other abandoned ideas :sweat_smile:)
