@@ -48,3 +48,13 @@ I have thousands of emails addressed to F.
 As of yet it remains nothing, but ultimately it's meant to be _something_
 
 ... stay tuned (and this might not be like all my other abandoned ideas :sweat_smile:)
+
+### What I've Do
+
+- Contributing, Individually
+    - Engineer
+- People, Leading
+    - etc. ???
+- Gaming
+- Hiking
+- etc. ???
